@@ -1,1 +1,4 @@
-# Maximum Flow
+- dfs
+- dijkstra
+- maximum-flow
+- spanning-tree
